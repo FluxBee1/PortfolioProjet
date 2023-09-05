@@ -192,7 +192,7 @@
         box-shadow: 3px 3px 10px black;
     }
     100%{
-        transform:scale(0.9);
+        transform:scale(1);
         filter: grayscale(0);
     }
 }
@@ -267,7 +267,7 @@
     animation-duration: 6s;
     animation-timing-function: ease-in;
     animation-iteration-count: infinite;
-}
+}   
 @keyframes zigzag-animation {
     50%{
         top:2%;
